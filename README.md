@@ -60,6 +60,9 @@ The 802.11 Hacking Repo.
 - [Crack WPA2: Know your target](http://xiaopan.co/forums/threads/crack-wpa2-know-your-target.2030/)
 - [Default WPA/WPA2 Router Keyspaces](https://forum.hashkiller.co.uk/topic-view.aspx?t=2715)
 
+##Presentations:
+- [Compromising ISP issued 802.11 wireless cable modem networks for profit.](https://github.com/GuerrillaWarfare/Armory/blob/master/presentations/So%20you%20thought%20i%20couldn't%20get%20in.pdf)
+
 ##Videos:
 - [wi-door](https://www.youtube.com/watch?v=T6yc0Toyt2A)
 - [WPA Too!](https://www.youtube.com/watch?v=TNFVNq34wNA)
@@ -84,7 +87,7 @@ The 802.11 Hacking Repo.
 ##Tools:
 - [mana](https://github.com/sensepost/mana)
 - [bully](https://github.com/Lrs121/bully)
-- [WPSIG](https://github.com/0x90/WPSIG)
+- [WPSIG](http://www.coresecurity.com/system/files/WPSIG.zip)
 - [kismet](https://github.com/ahendrix/kismet)
 - [cpscam](https://github.com/codewatchorg/cpscam/)
 - [asleap](http://www.willhackforsushi.com/?page_id=41)
@@ -94,18 +97,17 @@ The 802.11 Hacking Repo.
 - [wi-door](https://github.com/Vivek-Ramachandran/wi-door)
 - [coWPAtty](http://www.willhackforsushi.com/?page_id=50)
 - [pixiewps](https://github.com/wiire/pixiewps)
-- [wifuzzit](https://github.com/0xd012/wifuzzit)
 - [80211ping](https://github.com/tillwo/80211ping)
 - [Peap-Karma](https://github.com/phikshun/Peap-Karma)
-- [reaver-wps](https://github.com/gabrielrcouto/reaver-wps)
 - [eapmd5pass](http://www.willhackforsushi.com/?page_id=67)
-- [wps-scripts](https://github.com/0x90/wps-scripts)
 - [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
 - [hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe)
 - [aggr-inject](https://github.com/rpp0/aggr-inject)
 - [wifi-arsenal](https://github.com/0x90/wifi-arsenal)
 - [dot11decrypt](https://github.com/mfontanini/dot11decrypt)
+- [xfinity-pineapple](https://mega.nz/#!qx8mSaKT!A5vQVSBDjbTBpsHpA7gtotrKLZ_FgMX9cVKEj68ODig)
 - [reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x)
+- [Crippled (python version)](https://github.com/GuerrillaWarfare/Armory/blob/master/presentations/crippled.7z)
 - [TPLink-AttackDictionary-v1c.x](http://download719.mediafire.com/8u77nchailug/gor6b9b63nu6020/TPLink-AttackDictionary-v1c.x.zip)
 - [Wireless eXfiltration Protocol library](https://github.com/TarlogicSecurity/wxp)
 
