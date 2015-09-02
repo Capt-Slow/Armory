@@ -57,6 +57,8 @@ The 802.11 Hacking Repo.
 
 ##Tells:
 - [WPA/WPA2 PSK Crackq](https://hashcrack.org/crackq/page?n=wpa)
+- [Crack WPA2: Know your target](http://xiaopan.co/forums/threads/crack-wpa2-know-your-target.2030/)
+- [Default WPA/WPA2 Router Keyspaces](https://forum.hashkiller.co.uk/topic-view.aspx?t=2715)
 
 ##Videos:
 - [wi-door](https://www.youtube.com/watch?v=T6yc0Toyt2A)
@@ -68,26 +70,22 @@ The 802.11 Hacking Repo.
 - [Aircrack-ng Megaprimer](https://www.youtube.com/playlist?list=PL5rgD56Bh5myZCu45Eyb0CRpkaj5HyBB4)
 - [WiFi Security Megaprimer](http://securitytube.aircrack-ng.org/Wi-Fi-Security-Megaprimer/DVD/videos/)
 
-##Posts:
-- [Crack WPA2: Know your target](http://xiaopan.co/forums/threads/crack-wpa2-know-your-target.2030/)
-- [Default WPA/WPA2 Router Keyspaces](https://forum.hashkiller.co.uk/topic-view.aspx?t=2715)
-
 ##Wordlists:
 - [NETGEARXX](https://mega.co.nz/#!zpNBCI6a!ZAviox8wd3eLgLgh_Brcct-2htjAC7u6C0s-YIhKfew)
-- [rockyou.txt](https://downloads.skullsecurity.org/passwords/rockyou.txt.bz2)
 - [UniqPassv14](https://mega.co.nz/#!bw0GWZaa!6JrGUcZq4G5Tdk-FscqqqgIhp7LmroJwPxwNBZ0pFCU)
 - [PsycOPacKv2](http://storage.aircrack-ng.org/users/PsycO/PsycOPacKv2.rar)
+- [rockyou.txt](https://downloads.skullsecurity.org/passwords/rockyou.txt.bz2)
 - [g0tmi1k Edition](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
 - [Full 18in1 cleaned List](https://app.dumptruck.goldenfrog.com/p/O10ZURAU91) | password: maurisdump.blogspot.com
 - [TP-LINK_XXXXXX (WEP Keys)](https://mega.co.nz/#!rhFTAYST!UT2cg2mWgKpGDYIVTbREEGdhlZtR3eTqUlhLtylV91g)
 - [TP-LINK_XXXXXX (WPA/WPA2 Keys)](https://mega.nz/#!D88wTAqb!iTe6lzDPC_3Iu30V9trJ17YDCk799PsElT3zmFw6rx8)
-- [CrackStation's Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm)
+- [CrackStations Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm)
 
 ##Tools:
 - [mana](https://github.com/sensepost/mana)
 - [bully](https://github.com/Lrs121/bully)
 - [WPSIG](https://github.com/0x90/WPSIG)
-- [kismet](https://github.com/ahendrix/kismet.git)
+- [kismet](https://github.com/ahendrix/kismet)
 - [cpscam](https://github.com/codewatchorg/cpscam/)
 - [asleap](http://www.willhackforsushi.com/?page_id=41)
 - [eapeak](https://github.com/securestate/eapeak)
